@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[lantern]]></title>
+    <url>%2F2018%2F06%2F05%2Flantern%2F</url>
+    <content type="text"><![CDATA[一款免费的翻墙软件&lt;免费&gt;免费版： 高速流量每月有500m专业版：216￥每年对于只浏览网页的用户也够使用lantern]]></content>
+      <categories>
+        <category>-软件</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[使用方式]]></title>
+    <url>%2F2018%2F06%2F03%2Fone-bolg%2F</url>
+    <content type="text"><![CDATA[常用命令 12345678910111213141516hexo new &quot;postName&quot; #新建文章hexo generate #生成静态页面至public目录hexo clean #清除缓存hexo server #开启预览访问端口（默认端口4000，&apos;ctrl + c&apos;关闭server）hexo deploy #部署到GitHubhexo help # 查看帮助hexo version #查看Hexo的版本缩写hexo n == hexo newhexo g == hexo generatehexo s == hexo serverhexo d == hexo deploy组合命令hexo s -g #生成并本地预览hexo d -g #生成并上传 12345678title: # 这是标题categories: # 这里写的分类会自动汇集到 categories 页面上，分类可以多级- 实用技术 # 一级分类- 个人博客 # 二级分类tags: # 这里写的标签会自动汇集到 tags 页面上- 实用 # 可配置多个标签，注意格式- 个人博客description: #博客的详细介绍 我可以设置这一句的颜色哈哈 我还可以设置这一句的大小嘻嘻 我甚至可以设置这一句的颜色和大小呵呵 居中它1234&lt;font color=&quot;#FF0000&quot;&gt; 我可以设置这一句的颜色哈哈 &lt;/font&gt;&lt;font size=6&gt; 我还可以设置这一句的大小嘻嘻 &lt;/font&gt;&lt;font size=5 color=&quot;#FF0000&quot;&gt; 我甚至可以设置这一句的颜色和大小呵呵&lt;/font&gt;&lt;center&gt;居中它&lt;/center&gt; 表格 Tables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 123456创建表格和其他文字留出一行空格| Tables | Are | Cool ||----------|:-------------:|------:|| col 1 is | left-aligned | $1600 || col 2 is | centered | $12 || col 3 is | right-aligned | $1 | 超链接1[超链接](https://hexo.io/) 一级标题(最大字号)二级标题(比一级标题小一号)三级标题(比二级标题小一号)四级标题(比三级标题小一号)五级标题(比四级标题小一号)六级标题(比五级标题小一号)123456# 一级标题(最大字号)## 二级标题(比一级标题小一号)### 三级标题(比二级标题小一号)#### 四级标题(比三级标题小一号)##### 五级标题(比四级标题小一号)###### 六级标题(比五级标题小一号) 代码高亮1public static void main(String[] args) &#123; &#125; 文本突出 1`文本突出` 分割线 1--- 图片插入 1![风景](http://img06.tooopen.com/images/20180603/tooopen_sy_241631515411.jpg)]]></content>
+      <categories>
+        <category>-Hexo使用</category>
+      </categories>
+      <tags>
+        <tag>-博客编写</tag>
+      </tags>
+  </entry>
+</search>
